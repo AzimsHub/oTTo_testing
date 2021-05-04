@@ -1,16 +1,1 @@
-hello
-this
-is
-a
-
-
-bunch
-
-of new
-
-lines 
-
-
-bad
-ly
-formatted
+hello this is a bunch of new lines badly formatted
