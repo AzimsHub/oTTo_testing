@@ -1,1 +1,2 @@
-# oTTo_testing
+# WDIO-6-Boilerplate
+Boilerplate

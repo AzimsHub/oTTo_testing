@@ -1,0 +1,45 @@
+{
+  "name": "wdio-6-boilerplate",
+  "version": "1.0.0",
+  "description": "Description of this",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx wdio wdio.conf.js",
+    "hello": "node test.js && node test2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzimsHub/WDIO-6-Boilerplate.git"
+  },
+  "keywords": [
+    "BDD",
+    "WDIO",
+    "Cucumber",
+    "Automation"
+  ],
+  "author": "Azim Chowdhury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzimsHub/WDIO-6-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/AzimsHub/WDIO-6-Boilerplate#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.13",
+    "@babel/core": "^7.12.13",
+    "@babel/plugin-proposal-export-default-from": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@babel/register": "^7.12.13",
+    "@wdio/cli": "^6.12.1",
+    "@wdio/cucumber-framework": "^6.11.1",
+    "@wdio/dot-reporter": "^6.11.0",
+    "@wdio/local-runner": "^6.12.1",
+    "@wdio/spec-reporter": "^6.11.0",
+    "@wdio/sync": "^6.11.0",
+    "chai": "^4.2.0",
+    "chromedriver": "^88.0.0",
+    "wdio-chromedriver-service": "^6.0.4"
+  },
+  "dependencies": {
+    "broken-link-checker": "^0.7.8"
+  }
+}
